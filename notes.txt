@@ -1,7 +1,0 @@
-things to add implement
-
-- posting the daily deaths, confirmed, and recovered (DONE)
-- Generate_Tweet() runs once a day at noon
-- replying to comment inquiries that ask for certain country stats (DONE)
-- running on Remote server 
-- creating simple bar graph to post with each post (OPTIONAL)
