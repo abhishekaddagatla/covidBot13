@@ -5,10 +5,10 @@ from tweepy import Stream
 import json
 
 #TWITTER API INITIALIZATION
-consumer_key = 'DH2mxQWuKlKjvTQ34GXVRJ2iE'
-consumer_secret = 'FeOCVyyjjbqtkhX3v3xMI3WaMMLL4bOttUmuvwqLKNpIXwWJdm'
-access_token = '1302277618801217539-HI2IwnhUTWcug4n729aSgNmeFZpzUY'
-access_token_secret = 'nEXQRtRH9KrzPjcctvoxMVOyxkQDysKzj6M7B45RbclTe'
+consumer_key = '####'
+consumer_secret = '####'
+access_token = '####'
+access_token_secret = '####'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
